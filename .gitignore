@@ -6,3 +6,4 @@ dist-ssr
 *.lock
 *-lock.json
 DS_STORE
+*-error.log
